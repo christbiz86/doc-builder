@@ -1,0 +1,65 @@
+URL: https://siva.jobstreet.com.sg/job
+Method: POST
+
+Request headers:
+
+Host: siva.jobstreet.com.sg
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: application/json, text/plain, */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Referer: https://siva.jobstreet.com.sg/
+Content-Type: application/json
+Content-Length: 1816
+Cookie: __cfduid=d71fce59cf0b9ce87b46797ef154def491538017817; ABTestingRand_round2_online_registration_page=4; s_fid=41523E7E0C6DDBD1-1BCD51CEED7C490E; ABTestingRand_package_selection_new_design_80635=5; ABTestingRand_package_quantity_choice_80635=73; ABTestingRand_H6_80635=75; ABTestingRand_H7_80635=58; ABTestingRand_h1_remove_product_selection_80635=1; s_vi=[CS]v1|2DD62D3B052A214F-4000010A20002BC6[CE]; _ga=GA1.4.725834218.1538022373; _gid=GA1.4.1593747066.1538022373; scs=%7B%22t%22%3A1%7D; insdrSV=9; ins-mig-done=1; inslastVisitedUrlus=https%3A%2F%2Fsiva.jobstreet.com.sg%2F%23%2Flogin; spUID=1538022465751dcc13999ce.6addcb87; utag_main=v_id:016619f1c95c002edadf2a4e354000044002500900b67$_sn:2$_se:2$_ss:0$_st:1538039280182$ses_id:1538037363898%3Bexp-session$_pn:1%3Bexp-session$vapi_domain:jobstreet.com.sg; laravel_session=eyJpdiI6InV2UTdiNmsrVGpUdGtiZFNXV09PMEE9PSIsInZhbHVlIjoiWlM3Tjg2WGdhUUFCZFRYZ1NVamNW
+b29RYkVudEljZG1LRFwvK3poaDFYa1ZnNExYTVV0dE0rMUdZU1YzWm9ZWk5UMUdObzJvdTJ6WjZtXC9EVzA0QjZRdz09IiwibWFjIjoiYmZlNzBiYzgwM2M1YjI1NzIzMzE5NzBjMDRkNzg1OGNiZjE3ZDgwOGRkMTcxYzZmNzllNGJhY2IzODMwYzAzMCJ9; TBMCookie_15303015096444475054=131426001538037398xMATh88EtJ73SXaDlip5JV0LdkU=; ___utmvm=###########; NSC_qfstjtu_tjwb=14b5a3d994196093913cfd7a3fa892c8fb72d9c6d4259127c44a1706f15cbc2f41301c3b; _hjIncludedInSample=1; ins-gaSSId=1006db50-6e61-42bb-dde0-4f567b9676fb_1538040967; s_cc=true; SRCAT=pwY%2B63uJCNPdm3jX7xpwIFUXvx%2Bw3zrH5H3bDpegU4l6bSrmG3MHBt4jiIV8JlwC; req_https=1; AT=eyJpdiI6Ikh5U1VqdGNOOEk0dHoxS3h3alFIN2c9PSIsInZhbHVlIjoiV1VcL2cyQXdRNStcL3JBVWd0XC9ZK3lkWE92VEVGWUxSY2Q4UTlCRWRYR2Q4ZHErR0EycTVMUFRobHNOamZiSFM5SSIsIm1hYyI6IjUxN2MzMmI5NjhhOGQyMDg5MzM3YTVkNmMxYzcxZjcwNTkxMDk0MTFjMmEwODFhZGQxMTQyODFiNjllNjVkOTYifQ%3D%3D; gaStart_1=1538037401670; _gat_UA-82223804-13=1; gaStart_2=1538037480034
+Connection: keep-alive
+
+Request body:
+
+{"1000":"1","1001":"4","1002":"7","1003":"21","position_title":"Test Job 4","salary_currency_code":"2",
+"min_monthly_salary":1000,"max_monthly_salary":1500,"position_level_code":"2","years_of_experience_code":"5",
+"work_locations_countrySG":"on","work_locationsSG":"70000","work_location_specific_area":"","job_description":
+"<ul>\r\n\t<li>Candidate must possess at least Primary/Secondary School/&quot;O&quot; Level in Engineering
+(Aviation/Aeronautics/Astronautics) or equivalent.</li>\r\n\t<li>At least 5&nbsp;Year(s) of working experience
+in the related field is required for this position.</li>\r\n\t<li>Required Skill(s): work</li>\r\n\t<li>Preferably
+Senior Manager specialized in Actuarial Science/Statistics or equivalent.</li>\r\n</ul>\r\n",
+
+"map_address":"33 Ubi Avenue 3 Singapore 408868","youtube_url":"","map":{"address":"33 Ubi Avenue 3 Singapore 408868",
+"latitude":0,"longitude":0},"replace_map_flag":true,"map_longitude":0,"map_latitude":0,"profile_id":62321,
+"blind_flag":false,"header":"","field_of_studies":["12"],"specialization":"103","role":"1361","qualifications":["2"],
+"position_level":"2","years_of_experience":"5","salary_currency":"2",
+
+"job_requirements":"<ul>\n\t<li>Candidate must possess at least Primary/Secondary School/&quot;O&quot; Level in Engineering
+(Aviation/Aeronautics/Astronautics) or equivalent.</li>\n\t<li>At least 5&nbsp;Year(s) of working experience in the related
+field is required for this position.</li>\n\t<li>Required Skill(s): work</li>\n\t<li>Preferably Senior Manager specialized
+in Actuarial Science/Statistics or equivalent.</li>\n</ul>\n",
+
+"salary_display_flag":true,"work_auth_relevant_flag":true,
+"skills":["work"],"sites":[2],"work_locations":["70000"],"language_requirements":[],"employment_types":1,
+"has_rr_flag":false,"rr_reference_id":"","realert_flag":false}
+
+Seem to be fixed?
+1000 = 1
+1001 = 4
+1002 = 7
+1003 = 21
+
+
+Response headers:
+Cache-Control: no-cache
+Content-Encoding: br
+Content-Type: application/json
+Date: Thu, 27 Sep 2018 08:38:38 GMT
+Server: cloudflare
+Set-Cookie: laravel_session=eyJpdiI6IlpwOWVpZDNnRVlDUE8xUVY5b1dxcEE9PSIsInZhbHVlIjoiY0ZoUUlhY2M3Vm5PYkh3S1NrV0YrNzE4ZXUycW9RcmdPbWM4YXhubTlDOUdCK00zN2lybDJpVWIxVzRNa2hlM1FtYzJDRU9SaXFKYVBwVWg0SGdkcGc9PSIsIm1hYyI6ImZiZThhYjRiOWUzMDJjODk2ZjkzMTJmY2IwODgzMzk0MDU1OWZlMWVkMzczMDVjOTdkOTgzMThlZTBiZWExYjAifQ%3D%3D; expires=Thu, 27-Sep-2018 10:38:38 GMT; Max-Age=7200; path=/; secure; httponly
+NSC_qfstjtu_tjwb=30dfa3db57aa637596e5f54f374d71a2af4e32b7d3f33c93be18ebf96d6fe47e4c1a7ad0;Version=1;path=/;httponly
+Strict-Transport-Security: max-age=2592000; includeSubDomains
+X-Firefox-Spdy: h2
+X-Frame-Options: SAMEORIGIN
+cf-ray: 460ca7b4592ea918-SIN
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+js: 21
+
+Response body: 
+{"savecpp":false,"success":true,"job_id":6777544}
